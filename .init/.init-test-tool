@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/tmp/kavia/workspace/code-generation/openarticle-viewer-6411-6422/wikipedia_frontend"
+}
